@@ -1,88 +1,221 @@
 {
-    "users": [
-        {
-            "id":"1",
-            "firstName":"Animesh",
-            "lastName":"Roy",
-            "email":"ani@gmail.com",
-            "age":21,
-            "companyId":"1"
-        },
-        {
-            "id":"2",
-            "firstName":"Rahul",
-            "lastName":"Sharma",
-            "email":"rahul@gmail.com",
-            "age":20,
-            "companyId":"1"
-        },
-        {
-            "id":"3",
-            "firstName":"Mark",
-            "lastName":"Tyson",
-            "email":"lipon21@gmail.com",
-            "age":22,
-            "companyId":"1"
-        }, 
-        {
-            "id":"4",
-            "firstName":"Saurav",
-            "lastName":"Kumar",
-            "email":"saurav@gmail.com",
-            "age":24,
-            "companyId":"1"
-        }
-    ],
-    "companies":[
-        {
-            "id":"1",
-            "name":"Apple",
-            "logo":"https://cdn.mos.cms.futurecdn.net/MFHVMYQCeJHMGop4u8VkzJ-1200-80.jpg",
-            "description":"Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four technology companies, alongside Amazon, Google, and Microsoft."
-        }, 
-        {
-            "id":"2",
-            "name":"Microsoft",
-            "logo":"https://stepshot.net/wp-content/uploads/2017/10/Microsoft-logo.jpg",
-            "description":"Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services."
-        },
-        {
-            "id":"3",
-            "name":"Google",
-            "logo":"https://voluntarysupport.org.uk/wp-content/uploads/2018/07/Google_logo.jpg",
-            "description":"Google Inc., American search engine company, founded in 1998 by Sergey Brin and Larry Page, that is a subsidiary of the holding company Alphabet Inc. More than 70 percent of worldwide online search requests are handled by Google, placing it at the heart of most Internet users' experience."
-        }
-    ],
-    "contacts": [
-          {
-            "name": "Animesh Roy",
-            "country": "India",
-            "phone": "2322984953",
-            "id": 1
-          },
-          {
-            "name": "Aakash Choudhury",
-            "country": "USA",
-            "phone": "4930384837",
-            "id": 2
-          },
-          {
-            "name": "Arun Dey",
-            "country": "Brazil",
-            "phone": "5748493812",
-            "id": 3
-          },
-          {
-            "name": "Vikash Choudhury",
-            "country": "New Zeland",
-            "phone": "9873625261",
-            "id": 4
-          },
-          {
-            "name": "Gaurav Gupta",
-            "country": "Russia",
-            "phone": "7002873284",
-            "id": 5
-          }
-        ]
+	"users": [
+		{
+			"id": 1,
+			"name": "Robert Schwartz",
+			"email": "rob23@gmail.com"
+		},
+		{
+			"id": 2,
+			"name": "Lucy Ballmer",
+			"email": "lucyb56@gmail.com"
+		},
+		{
+			"id": 3,
+			"name": "Anna Smith",
+			"email": "annasmith23@gmail.com"
+		},
+		{
+			"id": 4,
+			"name": "Robert Brown",
+			"email": "bobbrown432@yahoo.com"
+		},
+		{
+			"id": 5,
+			"name": "Roger Bacon",
+			"email": "rogerbacon12@yahoo.com"
+		},
+		{
+			"id": 6,
+			"name": "Jeff Tu",
+			"email": "jefftu@gmail.com"
+		},
+		{
+			"id": 7,
+			"name": "Sharon Tu",
+			"email": "sharontu@yahoo.com"
+		},
+		{
+			"id": 8,
+			"name": "Sammy Shark",
+			"email": "sammyshark@yahoo.com"
+		},
+		{
+			"id": 9,
+			"name": "Jesse Octopus",
+			"email": "JesseOctopus@abc.com"
+		},
+		{
+			"id": 10,
+			"name": "DrewSquid",
+			"email": "DrewSquid@abc.com"
+		},
+		{
+			"id": 11,
+			"name": "Jamie Mantis",
+			"email": "JamieMantis@abc.com"
+		},
+		{
+			"id": 12,
+			"name": "Molecule Man",
+			"email": "MoleculeMan@abc.com"
+		},
+		{
+			"id": 13,
+			"name": "Madame Uppercut",
+			"email": "MadameUppercut@abc.com"
+		},
+		{
+			"id": 14,
+			"name": "Morty Smith",
+			"email": "MortySmith@abc.com"
+		},
+		{
+			"id": 15,
+			"name": "Alexis Bull",
+			"email": "AlexisBull@abc.com"
+		},
+		{
+			"id": 16,
+			"name": "Rack Jackson",
+			"email": "rackjackson2@abc.com"
+		},
+		{
+			"id": 17,
+			"name": "Shyam Jaiswal",
+			"email": "shyamjaiswal@gmail.com"
+		},
+		{
+			"id": 18,
+			"name": "Bidhan Chatterjee",
+			"email": "bidhan@example.com"
+		},
+		{
+			"id": 19,
+			"name": "Amit Goenka",
+			"email": "AmitGoenka@xyz.com"
+		},
+		{
+			"id": 20,
+			"name": "Smita Pallod",
+			"email": "SmitaPallod@xyz.com"
+		},
+		{
+			"id": 21,
+			"name": "Rajeev Sen",
+			"email": "RajeevSen@xyz.com"
+		},
+		{
+			"id": 22,
+			"name": "Tom Price",
+			"email": "tomprice@xyz.com"
+		},
+		{
+			"id": 23,
+			"name": "Nick Thameson",
+			"email": "nickThameson@xyz.com"
+		},
+		{
+			"id": 24,
+			"name": "Gonzalo Turner",
+			"email": "gonzaloturner@xyz.com"
+		},
+		{
+			"id": 25,
+			"name": "Dillon Kim",
+			"email": "dillonkim@example.com"
+		},
+		{
+			"id": 26,
+			"name": "Jonny Liu",
+			"email": "liu999@example.com"
+		},
+		{
+			"id": 27,
+			"name": "Elliot Don",
+			"email": "elliotdon@example.com"
+		},
+		{
+			"id": 28,
+			"name": "Ethan Hong",
+			"email": "ethonhong@example.com"
+		},
+		{
+			"id": 29,
+			"name": "Andy Yang",
+			"email": "andyyang7@example.com"
+		},
+		{
+			"id": 30,
+			"name": "Jack Turner",
+			"email": "Jackt88@example.com"
+		},
+		{
+			"id": 31,
+			"name": "Sammy Ng",
+			"email": "sammyng1263@example.com"
+		},
+		{
+			"id": 32,
+			"name": "Kevin Kang",
+			"email": "kevinkang@example.com"
+		},
+		{
+			"id": 33,
+			"name": "Ryan Palmer",
+			"email": "ryanpalmer@example.com"
+		},
+		{
+			"id": 34,
+			"name": "Tony Tang",
+			"email": "tonytt@example.com"
+		},
+		{
+			"id": 35,
+			"name": "Katie Sung",
+			"email": "katiesung@example.com"
+		},
+		{
+			"id": 36,
+			"name": "Lauren Boyd",
+			"email": "laurenboyd@example.com"
+		},
+		{
+			"id": 37,
+			"name": "Audrey Zhao",
+			"email": "audrey@gmail.com"
+		}
+	],
+	"tutorials": [
+		{
+			"id": 1,
+			"title": "Javascript 1",
+			"description": "Javascript 1 description",
+			"published": 1
+		},
+		{
+			"id": 2,
+			"title": "Javascript 2",
+			"description": "Javascript 2 description",
+			"published": 0
+		},
+		{
+			"id": 3,
+			"title": "Python 101",
+			"description": "Python 101 description",
+			"published": 0
+		},
+		{
+			"id": 4,
+			"title": "Python 202",
+			"description": "Python 202 description",
+			"published": 1
+		},
+		{
+			"id": 5,
+			"title": "HTML one",
+			"description": "HTML one description",
+			"published": 1
+		}
+	]
 }
