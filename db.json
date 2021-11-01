@@ -147,41 +147,6 @@
 		},
 		{
 			"id": 30,
-			"name": "Jack Turner",
-			"email": "Jackt88@example.com"
-		},
-		{
-			"id": 31,
-			"name": "Sammy Ng",
-			"email": "sammyng1263@example.com"
-		},
-		{
-			"id": 32,
-			"name": "Kevin Kang",
-			"email": "kevinkang@example.com"
-		},
-		{
-			"id": 33,
-			"name": "Ryan Palmer",
-			"email": "ryanpalmer@example.com"
-		},
-		{
-			"id": 34,
-			"name": "Tony Tang",
-			"email": "tonytt@example.com"
-		},
-		{
-			"id": 35,
-			"name": "Katie Sung",
-			"email": "katiesung@example.com"
-		},
-		{
-			"id": 36,
-			"name": "Lauren Boyd",
-			"email": "laurenboyd@example.com"
-		},
-		{
-			"id": 37,
 			"name": "Audrey Zhao",
 			"email": "audrey@gmail.com"
 		}
