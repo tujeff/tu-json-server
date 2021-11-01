@@ -185,38 +185,7 @@
 		"name": "Audrey Zhao",
         "email": "audrey@gmail.com"
 	  }
-	],
-	"tutorials": [
-		{
-		  "id": 1,
-		  "title": "Javascript 1",
-		  "description": "Javascript 1 description",
-		  "published": 1
-		},
-		{
-		  "id": 2,
-		  "title": "Javascript 2",
-          "description": "Javascript 2 description",
-		  "published": 0
-		},
-		{
-		  "id": 3,
-		  "title": "Python 101",
-		  "description": "Python 101 description",
-		  "published": 0
-		},
-		{
-		  "id": 4,
-		  "title": "Python 202",
-		  "description": "Python 202 description",
-		  "published": 1
-		},
-		{
-		  "id": 5,
-		  "title": "HTML one",
-		  "description": "HTML one description",
-		  "published": 1
-		}
-	  ]
+	]
+
 }
 
